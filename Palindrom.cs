@@ -19,3 +19,4 @@ class Palindrom
 			Console>WriteLine("Not Palindrom");
 	}
 }
+/* this is multiline command */
